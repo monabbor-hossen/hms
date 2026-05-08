@@ -1,0 +1,37 @@
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+.li{
+    margin: 0px 30px;
+}
+.modern{
+    margin: 0px 30px;
+    
+}
+
+.card-body{
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    background: #88938c 0%;
+}
+.container{
+    background-color: #2d2f3f;
+}
+.aboutheadline{
+    color: #0950a0;
+    padding: 1%;
+    text-align: center;
+}
+.hotline{
+    width: 100%;
+    height: auto;
+
+}
+.other{
+    width: 75%;
+    height: auto;
+    padding: 2%;
+}
+

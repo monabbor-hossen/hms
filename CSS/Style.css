@@ -1,0 +1,164 @@
+                          /* --------------------- */
+                               /* Top nav Line */
+                          /* --------------------- */
+.md-topline {
+  padding: 10px 30px;
+  background: #5084FF;
+  text-align: center;
+}
+.md-h-group {
+  font-size: 14px;
+  color: #ced2d5;
+  text-transform: uppercase
+}
+
+.md-h-group em,.md-h-group i {
+  color: black;
+  font-style: normal
+}
+.md-h-social {
+  display: inline-block;
+  font-family: Oswald;
+  font-size: 15px;
+  text-align: center
+}
+
+.md-h-social a {
+  margin: 0 8px;
+  display: inline-block;
+  text-decoration: none
+}
+
+.md-h-social i {
+  color: #ced2d5;
+  font-style: normal
+}
+.md-h-social i:hover {
+  color: black;
+}
+
+
+/* Main Navber */
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+
+
+/* ------------------------ */
+.card-body{
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    background: #5084FF;
+}
+.card-body p{
+    font-size: 15px;
+}
+.button{
+    padding: 0 25px;
+    cursor: pointer;
+}
+.seemore{
+    display: none;
+    color: white;
+    padding: 5px 10px;
+    border: 2px solid white;
+}
+.seemore:hover{
+    color: #5084FF;
+    background: white;
+    padding: 5px 10px;
+    border: 2px solid white;
+}
+.card-body:hover .seemore{
+    display: block;
+}
+.webpicon{
+    padding: 5opx 200px;
+    width: 150px;
+    height: 150px;
+
+}
+
+
+/* -------------------------------------------- */
+.headline{
+    text-align: center;
+    margin-top: 60px;
+    color: black;
+}
+.modern{
+  margin: 0px 30px;
+}
+.modern .modernhead{
+  border-bottom: 1px solid #ced2d5;
+}
+.modern .button{
+  text-align: center;
+  margin-top: 30px;
+}
+.modern .button button{
+  color: white;
+  background: #5084FF;
+  padding: 3px 10px;
+  border: 2px solid #6090ff;
+}
+.modern .button button:hover{
+  color: #6090ff;
+  background: white;
+  border: 2px solid #6090ff;
+}
+.modernimg{
+  margin-top: 50px;
+    height: 350px;
+    width: 350px;
+}
+
+/* ----------------------------- */
+.md-f{
+  padding: 40px;
+  background: #6090ff;
+  color: white;
+}
+.md-f .md-f-card{
+  text-align: center;
+}
+.md-f .md-f-card h6{
+  color: black;
+  font-weight: bold;
+  margin: 20px 0;
+}
+.md-f-img{
+  height: 150px;
+  width: 250px;
+}
+.md-f .md-f-card .button{
+  color: white;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.md-f .md-f-card .button button{
+  color: white;
+  background: white;
+  padding: 3px 6px;
+  border: 2px solid transparent;
+  transition: 0.5s;
+}
+.md-f .md-f-card .button button:hover{
+  color: #5084FF;
+  background: white;
+  border: 2px solid #5084FF;
+  transition: 0.5s;
+}
+.md-f .md-f-card:hover button{
+  color: white;
+  background: #5084FF;
+  border: 2px solid #6090ff;
+}
+/* .modern{
+  margin-top: 50px;
+    height: 350px;
+    width: 350px;
+} */

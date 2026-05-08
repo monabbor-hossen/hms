@@ -1,0 +1,51 @@
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+/* ..... */
+.imgs{
+    width: 100%;
+    height: auto;
+    
+}
+.header{
+    margin-top: 2%;
+    color: rgb(24, 2, 2);
+    padding: 16px 13px;
+   
+    background-color: whitesmoke;
+    text-align: center;
+}
+.pragraph{
+    font-size: large;
+    text-align: center;
+}
+/* .......... */
+.blood{
+    padding: 10px 13px;
+
+}
+/* ........... */
+.headline_2{
+    text-align: center;
+    padding: 13px 16px;
+}
+/* ........... */
+.imges{
+    width: 100%;
+    height: auto;
+}
+.li{
+    padding: 15px 18px;
+
+}
+/* //...... */
+.echo{
+    padding: 50px 60px;
+    color: rgb(15, 132, 27);
+}
+/* ... */
+.headline_5{
+    padding: 50px 60px;
+    color: rgb(18, 66, 224);
+}
